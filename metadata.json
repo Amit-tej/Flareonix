@@ -1,0 +1,7 @@
+{
+  "name": "Flareonix - Startup Readiness Platform",
+  "description": "An AI-driven startup idea evaluation and research platform that provides deep market analysis, success probabilities, and strategic growth insights using Gemini's search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
